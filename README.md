@@ -1,7 +1,9 @@
-# gulu
+# vue之造轮子
 
-## 安装
-> 使用本框架前要使用border-box
-```
-box-sizing: border-box
+> 封装好的vue的UI组件
+
+## 运行
+``` bash
+npm i
+npx parcel index.html
 ```
